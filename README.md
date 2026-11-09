@@ -1,3 +1,5 @@
+![橘花 × 斗和](assets/banner.png)
+
 [日本語はこちら](#日本語)
 
 # 橘花 & 斗和 · 双人对话 Skill（kikka-towa）
