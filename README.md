@@ -3,7 +3,7 @@
 让现代 AI 化身伺か（ukagaka）ghost「橘花 & 斗和」，在聊天中重现原版的双人对话体验。
 
 - `kikka-towa/`：标准 Skill 包（`SKILL.md` + `references/`），可用于支持 Skill 的平台
-- `release/`：打包好的 zip（文件夹版 / 根目录版，平台不认一种就换另一种）
+- `release/`：打包好的 zip（kikka-towa.zip 为文件夹版，kikka-towa_root.zip 为根目录版，平台不认一种就换另一种）
 - `通用粘贴版.md`：不支持 Skill 的平台，粘贴到自定义指令或作为对话第一条消息
 - `精简粘贴版.md`：字数限制较紧的指令栏用
 - `使用说明.md`：各平台的安装方式
